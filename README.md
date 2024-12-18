@@ -8,3 +8,7 @@ EMAIL=email@email.com
 PASSWORD=passowrd_key
 OPENAI_API_KEY = abcdefgh
 ```
+
+
+glimps:
+https://photos.app.goo.gl/duDYCuQVndLpqm8aA
